@@ -31,12 +31,13 @@ Este es un proyecto completo de **DevOps** que implementa una **Pipeline de Inte
 ## 🏗️ Estructura del Proyecto  
 
  **dev-ops/
-├── 📁 server/ # Módulo de lógica de negocio (JAR)
-├── 📁 webapp/ # Aplicación web desplegable (WAR)
-├── ⚙️ pom.xml # Configuración principal Maven
-├── 🔧 Jenkinsfile # Pipeline como código
-└── 🐳 Dockerfile # Configuración de contenedores**
-
+ ```bash
+  ├── 📁 server/ # Módulo de lógica de negocio (JAR)
+  ├── 📁 webapp/ # Aplicación web desplegable (WAR)
+  ├── ⚙️ pom.xml # Configuración principal Maven
+  ├── 🔧 Jenkinsfile # Pipeline como código
+  └── 🐳 Dockerfile # Configuración de contenedores**
+```
 ## ✨ Características Principales
 
 ### ✅ Automatización Completa
